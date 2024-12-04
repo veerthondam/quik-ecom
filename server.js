@@ -1,12 +1,14 @@
 const express = require("express");
 const fs = require("fs");
 const path = require("path");
+const cors = require("cors");
 
 const app = express();
 const PORT = 3000;
 
 // Middleware to parse JSON
 app.use(express.json());
+app.use(cors());
 
 // Path to the JSON file
 const dbPath = path.join(__dirname, "db.json");
