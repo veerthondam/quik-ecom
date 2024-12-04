@@ -1,0 +1,276 @@
+[
+{
+"productId": 1,
+"title":
+"Ensure Balanced Nutrition Drink Powder For Adults - Vanilla Flavored",
+"description":
+"Description: As you age, you may frequently feel weak & tired due to loss of muscle mass. Ensure Complete, balanced nutrition can help support bone & muscle strength to help you stay strong and active. New Ensure is the only complete, balanced supplement now with HMB to help build and protect muscles.",
+"weight": "375g",
+"price": 745,
+"original_price": 800,
+"category": "Dink Mixes",
+"brand": "Ensure",
+"flavor": "vanilla",
+"images": [
+    "https://i.ibb.co/Wx5gG57/ensurevanilla1.webp",
+    "https://i.ibb.co/9qyn3kZ/ensurecholcolate2.webp"
+]
+},
+{
+"productId": 2,
+"title":
+"Optimum Nutrition (ON) Performance Whey Protein Powder Chocolate Milkshake",
+"description":
+"Description : Optimum Nutrition (ON) Performance Whey Protein Powder in Chocolate Milkshake flavor offers a delicious and effective way to support your fitness goals. Packed with high-quality whey protein isolate and whey protein concentrate, it promotes muscle recovery and growth. With its rich chocolate milkshake taste, it makes protein shakes enjoyable and satisfying. Elevate your workouts and fuel your muscles with Optimum Nutrition (ON) Performance Whey Protein Powder.",
+"weight": "1kg",
+"price": 2111,
+"original_price": 2415,
+"category": "Dink Mixes",
+"brand": "Optimum Nutrition",
+"flavor": "chocolate",
+"images":[
+    "https://i.ibb.co/Ltk8CtP/optimus1.webp",
+"https://i.ibb.co/3WyL8Vt/optimus2.webp"
+]
+},
+{
+"productId": 3,
+"title":
+"Pediasure Scientifically Designed Nutrition Drink Vanilla Box",
+"description":
+"Description : PediaSure is a scientifically designed nutritional drink, clinically proven to address the needs of the growing child and promotes catch up growth. PediaSure provides 37 nutrients to support healthy growth and development. PediaSure, with Nutri Pull system, helps with better absorption of key nutrients and gives 50% More Growth in 90 days.",
+"weight": "375g",
+"price": 710,
+"original_price": 770,
+"category": "Dink Mixes",
+"brand": "Pediasure",
+"falvor": "vanilla",
+"images":[
+    "https://i.ibb.co/xsz2Jy2/pediasure1.webp",
+"https://i.ibb.co/vkDCV8S/pediasure2.webp"
+]
+},
+{
+"productId": 4,
+"title":
+"ENSURE Diabetes Care Specialized Nutrition Drink, Chocolate",
+"description":
+"Description : Ensure Diabetes Care Nutrition Drink is a specially formulated nutritional supplement designed to meet the unique dietary needs of individuals managing diabetes. Enriched with slow-release carbohydrates, high-quality protein, and essential vitamins and minerals, this nutrition drink provides sustained energy, muscle strength, and overall well-being for individuals with diabetes. Whether used as a meal replacement or a between-meal snack, Ensure Diabetes Care Nutrition Drink helps manage blood sugar levels and supports optimal nutrition, making it an essential part of a diabetes management plan. With its delicious taste and convenient packaging, it's easy to incorporate into your daily routine. Take control of your health with Ensure Diabetes Care Nutrition Drink and enjoy a balanced and fulfilling life.",
+"weight": "375g",
+"price": 850,
+"original_price": 925,
+"category": "Dink Mixes",
+"brand": "ENSURE",
+"falvor": "Chocolate",
+"images": [
+"https://i.ibb.co/M5LdhSJ/ensurecholcolate1.webp",
+"https://i.ibb.co/9qyn3kZ/ensurecholcolate2.webp"
+]
+},
+{
+"productId": 5,
+"title":
+"Nestlé NANGROW – Nutritious Milk Drink for Growing Children Aged 2-6 Years, Creamy Vanilla Flavor",
+"description":
+"Description : Nestle NANGROW is a nutritious milk drink in a delicious, creamy vanilla flavour for growing children, aged 2 to 6 years old. It contains Probiotics, DHA for Brain Development, Whey Protein for Muscles and Essential Nutrients for Growth and Immune System function. So even when no one's sure what tomorrow might hold, you are sure that your child is ready for any possibilities in the future.",
+"weight": "375g",
+"price": 625,
+"original_price": 625,
+"category": "Dink Mixes",
+"brand": "Nestle",
+"falvor": "Vanilla",
+"images": [
+"https://i.ibb.co/VqsfBC9/nestle11.webp",
+"https://i.ibb.co/fCDBHz6/nestle12.webp"
+]
+},
+{
+"productId": 6,
+"title":
+"Protinex Original Nutritional Drink Mix (Container)",
+"description":
+"Description : Protinex Original is a ready-to-serve beverage mix that helps meet the nutrient requirements of Indian Adults. Protinex Original contains 17 essential vitamins and minerals including 8 Immuno nutrients�; that support immunity, build strength and provide energy.",
+"weight": "400g",
+"price": 668,
+"original_price": 750,
+"category": "Dink Mixes",
+"brand": "Protinex",
+"falvor": "",
+"images": [
+"    https://i.ibb.co/v4kLJgd/protienx-1.webp",
+"https://i.ibb.co/gtJTH3f/protienx-2.webp"
+]
+},
+{
+"productId": 7,
+"title":
+"Fast&Up Fat Burner L-Carnitine Lean Body 2000mg - 20 Lemon Tablets For weight Loss",
+"description":
+"Description : Get the purest L-Carnitine Tartrate 1000mg for fast absorption, converting fat into energy. Clinically tested Carnipure™ from Lonza, Switzerland ensures quality. With a refreshing lemon flavor, it's sugar-free and free from banned substances, aiding in energy production. Fast&Up L-Carnitine effervescent boosts workout performance by energizing muscles efficiently.",
+"weight": "20Tablets",
+"price": 546,
+"original_price": 650,
+"category": "Dink Mixes",
+"brand": "Fast&Up",
+"falvor": "",
+"images":[
+    "https://i.ibb.co/NCM8ksT/fastup-1.webp",
+"https://i.ibb.co/QDyp7fQ/fastup-2.webp"
+]
+},
+{
+"productId": 8,
+"title":
+"Manna Nutrition Mix - Nutrition Multigrain Drink For Kids",
+"description":
+"Des'cription : Manna Nutrition Mix is 100% Natural Nutrition for Growing Kids. Manna Nutrition Mix is made with a mix of grains and pulses roasted to enhance flavours. It is blended with nuts and cardamom, ground and packed hygienically, to help you make a nourishing drink for your child every day! In the formative years (2-6), it is advisable to give natural foods without preservatives, additives, and artificial flavours to your growing kids.",
+"weight": "600g",
+"price": 304,
+"original_price": 349,
+"category": "Dink Mixes",
+"brand": "Manna",
+"falvor": "",
+"images": [
+    "https://i.ibb.co/XznmW85/manna1.webp",
+    "https://i.ibb.co/m8ZXDrz/manna2.webp"
+]
+},
+{
+"productId": 9,
+"title":
+"Nestle LACTOGROW Nutritious Milk Drink | Biscuity Vanilla Flavour (2 - 6 years)",
+"description":
+"Description : Nestlé has 155 years of scientific expertise in nutrition. New Lactogrow is a nutritious milk drink with immunonutrients, probiotic L. reuteri and other essential nutrients for your child’s happy growth. It contains essential nutrients that help support normal physical growth & development, brain development, cognitive development, immune system function and bones development, and is easy to digest.",
+"weight": "400g",
+"price": 400,
+"original_price": 400,
+"category": "Dink Mixes",
+"brand": "Nestle",
+"falvor": "",
+"images": [
+    "https://i.ibb.co/5635sMd/nestle-1.webp",
+"https://i.ibb.co/b2ZhpBf/nestle-2.webp"
+]
+},
+{
+"productId": 10,
+"title":
+"Bru Instant Coffee",
+"description":
+"Description : BRU Instant Coffee was launched in 1968 and was India�s first Coffee - Chicory based instant coffee. It has remained India�s beloved & trusted coffee brand since then. With over 50+ years experience in the world of coffee, Bru strives to bring the best coffee experience to you! We understand that great coffee starts at source. That�s why we source the finest coffee from South Indian Plantations. The coffee beans are first roasted to perfection then the new & enhanced process ensures that the fresh coffee aroma is preserved so that you can enjoy the signature Bru aroma with every cup. Bru Instant has a characteristic caramellic & chocolaty taste which gives you a delicious cup of hot & refreshing cold coffee!",
+"weight": "100g",
+"price": 240,
+"original_price": 300,
+"category": "Coffee",
+"brand": "Bru",
+"falvor": "",
+"images": [
+    "https://i.ibb.co/4dfBpc3/bru-instant.webp",
+    "https://i.ibb.co/HV3djLf/bru-instant2.webp"
+]
+},
+{
+"productId": 11,
+"title":
+"Continental Xtra Pouch",
+"description":
+"Description : Continental Xtra Coffee is a meticulous blend of 70% coffee and 30% Chicory and creates a magic for the senses owing to its aroma, flavour and richness, giving you the much needed boost to take on any challenge throughout the day.",
+"weight": "50g",
+"price": 85,
+"original_price": 170,
+"category": "Coffee",
+"brand": "Continental",
+"falvor": "",
+"images": [
+    "https://i.ibb.co/VtWV3N3/contenta1.webp",
+"https://i.ibb.co/6WKngFZ/contenta2.webp"
+]
+},
+{
+"productId": 12,
+"title":
+"BRU Green Label Filter Coffee",
+"description":
+"Description : Loved by consumers since 1962, Bru Green Label Coffee is Indias first packaged filter coffee with a perfect mix of 53% coffee and 47% chicory. Its lightly roasted ground coffee beans give out a perfect decoction for a rich & smooth flavourful cup that helps rejuvenate your senses.",
+"weight": "500g",
+"price": 350,
+"original_price": 380,
+"category": "Coffee",
+"brand": "BRU",
+"falvor": "",
+"images": ["https://i.ibb.co/Ph5Prgn/bru-green1.webp",
+"https://i.ibb.co/58dkcdz/bru-green2.webp"
+]
+},
+{
+"productId": 13,
+"title":
+"Continental Strong Coffee Pouch",
+"description":
+"Description : Continental Strong Coffee Pouch",
+"weight": "1kg",
+"price": 898,
+"original_price": 925,
+"category": "Coffee",
+"brand": "Continental",
+"falvor": "",
+"images":[
+    "https://i.ibb.co/D5cJ107/1.jpg",
+    "https://i.ibb.co/nM7fYWd/2.jpg"
+]
+},
+{
+"productId": 14,
+"title":
+"Tata Tea Gold",
+"description":
+"Description : Tata Tea Gold, the most premium offering from Tata Tea�s portfolio, was launched in 2003 as a superior variant on the �aroma� platform. While the practice of mixing CTC (Crushed, Tear, Curl) granules with long leaves was prevalent amongst discerning tea consumers, there was no packaged player addressing this area. Tata Tea tapped into this rich insight and developed Tata Tea Gold. Its uniqueness lies in the superior balance it maintains between strength and aroma, which is produced by mixing CTC granules with gently-rolled 15% longer leaves.",
+"weight": "1kg",
+"price": 476,
+"original_price": 600,
+"category": "Tea",
+"brand": "Tata Tea Gold",
+"falvor": "",
+"images":[
+    "https://i.ibb.co/LhRwV8J/tata-tea1.webp",
+"https://i.ibb.co/chWLX5j/tata-tea2.webp"
+]
+},
+{
+"productId": 15,
+"title":
+"Red Label Tea",
+"description":
+"Description : Brooke Bond Red Label is one of India�s largest selling packaged tea brands. Brooke Bond Red Label Tea is a blend CTC tea with best quality leaves; processed in the unique Brooke Bond Tea Excellence Centre. Since 1869, Brooke Bond has brought you the perfect tasting tea experience with the best-chosen leaves. It was in 1903 that Brooke Bond launched �Red Label�.",
+"weight": "1kg",
+"price": 580,
+"original_price": 600,
+"category": "Tea",
+"brand": "Red Label Tea",
+"falvor": "",
+"images":[
+    "https://i.ibb.co/tL6KYcj/redlabel1.webp",
+"https://i.ibb.co/b6ZQrCr/redlabel2.webp"
+
+]
+},
+{
+"productId": 16,
+"title":
+"Taj Mahal Rich & Flavourful Tea",
+"description":
+"Description : The Taj Mahal Tea range contains the finest teas blended with delicious, aromatic spice flavours to treat your senses to a perfect harmony of flavour and spice.",
+"weight": "500g",
+"price": 460,
+"original_price": 470,
+"category": "Tea",
+"brand": "Taj Mahal",
+"falvor": "",
+"images":[
+    "https://i.ibb.co/PQLpt1W/tajmahal.webp",
+"https://i.ibb.co/P1KwX3J/tajmahal1.webp"
+
+]
+}
+
+]
