@@ -113,6 +113,23 @@ app.delete("/api/products/:id", async (req, res) => {
   }
 });
 
+// SEARCH: Search for products by title or description
+app.get("/api/products/search", async (req, res) => {
+  const { query } = req.query; // Query parameter for search
+  try {
+    const products = await readDB();
+    const filteredProducts = products.filter(
+      (product) =>
+        product.title.toLowerCase().includes(query.toLowerCase()) ||
+        product.description.toLowerCase().includes(query.toLowerCase())
+    );
+    res.json(filteredProducts);
+  } catch (err) {
+    console.error(err);
+    res.status(500).send("Error searching database");
+  }
+});
+
 // Start the server
 app.listen(PORT, () => {
   console.log(`Server is running at http://localhost:${PORT}/api/products`);
